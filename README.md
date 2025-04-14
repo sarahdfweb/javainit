@@ -20,7 +20,7 @@ Este repositório contém exercícios e exemplos básicos escritos em Java, dese
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Java 17 (ou a versão que estiver usando)
+- Java 23
 - IntelliJ IDEA
 - Git e GitHub
 
